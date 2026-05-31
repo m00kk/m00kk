@@ -183,7 +183,7 @@ Full table → [ai-agent-red-teaming/docs/disclosures.md](https://github.com/m00
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m00kk&label=PROFILE+VIEWS&color=4ade80,0f172a&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=m00kk&label=PROFILE+VIEWS&color=4ade80&style=for-the-badge" alt="views"/>
 </p>
 
 <p align="center">
