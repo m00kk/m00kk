@@ -147,23 +147,6 @@ Offensive researcher focused on **authorized** programs — HackerOne, Bugcrowd,
 
 ---
 
-## `telemetry`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m00kk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=4ade80&icon_color=22d3ee&text_color=e2e8f0&border_radius=10&include_all_commits=true&count_private=false" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m00kk&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=4ade80&text_color=e2e8f0&border_radius=10&langs_count=8" height="165" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=m00kk&theme=tokyonight&hide_border=true&background=020617&ring=4ade80&fire=22d3ee&currStreakLabel=4ade80&border_radius=10" alt="Contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m00kk&theme=tokyonight&hide_border=true&bg_color=020617&color=4ade80&line=22d3ee&point=f87171&area=true&radius=8" alt="Contribution activity graph"/>
-</p>
-
----
-
 ## `disclosure_watchlist`
 
 Studying real chains from authorized disclosure corpus:
